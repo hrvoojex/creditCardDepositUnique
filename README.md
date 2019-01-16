@@ -12,10 +12,6 @@ https://support.actblue.com/campaigns/merchant-accounts/transfers-to-your-bank-a
 
 2. We need to add a unique identifier to each set of transactions that falls into the transfer schedule. So for example if there are three transactions that occur on 1/1/18 before 10pm  then all three transaction will have the SAME unique identifier
 
-Send me a quote showing you understand the issue by giving an example of transactions that would go together based on day of week etc
-
-Please Including the amount of time it will take
-
 In order to check your work you may use the Bank tab
 
 BANK Tab
